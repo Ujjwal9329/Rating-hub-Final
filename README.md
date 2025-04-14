@@ -92,3 +92,19 @@ npm run start
 
 # In a separate terminal, run frontend
 npm start
+
+
+
+![Screenshot 2025-04-14 155519](https://github.com/user-attachments/assets/d962f44d-10bb-4437-a782-ebb24f16a6ea)
+
+![image](https://github.com/user-attachments/assets/1efefd73-fd2d-4225-8895-d21f12593ac1)
+
+![image](https://github.com/user-attachments/assets/baddd4a3-f066-44de-9f6d-deb7e0adac05)
+
+![image](https://github.com/user-attachments/assets/0eb861f6-bbc2-4601-8992-e668117e6514)
+
+![image](https://github.com/user-attachments/assets/fc59a5a8-af6f-4bf3-ad05-4afc32e7e918)
+
+
+
+
